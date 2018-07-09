@@ -1,3 +1,0 @@
-/media/lk/70F6705DF670260E/1/erzhencahfa/erzhencahfa/build/CMakeFiles/rebuild_cache.dir
-/media/lk/70F6705DF670260E/1/erzhencahfa/erzhencahfa/build/CMakeFiles/edit_cache.dir
-/media/lk/70F6705DF670260E/1/erzhencahfa/erzhencahfa/build/CMakeFiles/main.dir
